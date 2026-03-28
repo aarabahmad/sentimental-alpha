@@ -1,0 +1,30 @@
+Analysis Report: Trader Performance vs. Market Sentiment
+=======================================================
+Overlap Period: 2023-05-01 to 2025-05-01
+Total Combined Days: 479
+
+Correlation (PnL vs Sentiment Value): -0.0826
+
+Average Daily Performance per Sentiment Classification:
+classification
+Greed            11140.566181
+Neutral          19297.323516
+Extreme Greed    23817.292199
+Fear             36891.818040
+Extreme Fear     52793.589178
+
+Average Daily Volume per Sentiment Classification:
+classification
+Extreme Greed    1.091800e+06
+Greed            1.495246e+06
+Neutral          2.690180e+06
+Fear             5.311261e+06
+Extreme Fear     8.177447e+06
+
+Profitable Day Rate (%) per Sentiment Classification:
+classification
+Extreme Fear     64.285714
+Extreme Greed    87.719298
+Fear             73.626374
+Greed            72.538860
+Neutral          67.164179

@@ -1,0 +1,14 @@
+# Data Files
+historical_data.csv
+fear_greed_index.csv
+research_output.txt
+
+# Python Environment
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Analysis Visualizations
+# (Uncomment the line below if you want to keep screenshots out of the repo)
+# *.png
